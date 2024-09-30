@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Mercedes",
+        "description": "Shining Silver",
+        "price": 13500,
+        "category": "new",
+        "image": "https://img.freepik.com/premium-photo/sport-car-isolated-background-3d-rendering-illustration_494250-5142.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 2,
+        "name": "Mercedes",
+        "description": "Wide White",
+        "price": 10000,
+        "category": "new",
+        "image": "https://img.freepik.com/premium-photo/white-sports-car-with-number-2-front_1185498-128551.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 3,
+        "name": "Mercedes",
+        "description": "Rocking Red",
+        "price": 3600,
+        "category": "new",
+        "image": "https://img.freepik.com/free-vector/red-sedan-car-isolated-white-vector_53876-67411.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 4,
+        "name": "Mercedes",
+        "description": "Great Green",
+        "price": 3000,
+        "category": "old",
+        "image": "https://img.freepik.com/free-vector/green-sports-car-isolated-white-vector_53876-64420.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 5,
+        "name": "Mercedes",
+        "description": "Booming Blue",
+        "price": 10000,
+        "category": "new",
+        "image": "https://img.freepik.com/free-photo/view-3d-car_23-2150796900.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 6,
+        "name": "Mercedes",
+        "description": "Premium Purple",
+        "price": 11000,
+        "category": "old",
+        "image": "https://img.freepik.com/premium-photo/purple-sports-car-with-purple-roof-is-shown_1130573-168828.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 7,
+        "name": "Mercedes",
+        "description": " Black",
+        "price": 4000,
+        "category": "new",
+        "image": "https://img.freepik.com/free-vector/black-convertible-car_53876-64027.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 8,
+        "name": "Mercedes",
+        "description": "Cool Green",
+        "price": 5000,
+        "category": "new",
+        "image": "https://img.freepik.com/premium-psd/sport-car-transparent-background-3d-rendering-illustration_494250-48511.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 9,
+        "name": "Mercedes",
+        "description": "White",
+        "price": 9000,
+        "category": "old",
+        "image": "https://img.freepik.com/premium-photo/white-sports-car-with-black-rims-yellow-rims_167857-9883.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 10,
+        "name": "Mercedes",
+        "description": "Charming Cherry",
+        "price": 13000,
+        "category": "new",
+        "image": "https://img.freepik.com/free-vector/red-convertible-car-isolated-white-vector_53876-64382.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    },
+
+    {
+        "id": 11,
+        "name": "Mercedes",
+        "description": "Moving Mauve",
+        "price": 12000,
+        "category": "old",
+        "image": "https://img.freepik.com/free-psd/modern-car-isolated_23-2151504452.jpg?size=626&ext=jpg&uid=R165730027&ga=GA1.1.777879000.1727567318&semt=ais_hybrid"
+    }
+]
