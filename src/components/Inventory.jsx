@@ -1,5 +1,5 @@
 import React from 'react'
-import list from "../../public/Inventory.json";
+import list from "../../public/Inventory.json"; 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";

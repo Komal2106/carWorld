@@ -8,7 +8,7 @@ function Collection() {
   return (
     <>
         <div className="max-w-screen-4xl continer mx-auto md:px-20 px-4">
-            <div className="mt-32 items-center justify-center text-center">
+            <div className="mt-32 items-center justify-center text-center"> 
                 <h1 className="text-2xl font-semibold md:text-4xl">
                     We are delighted to see you HERE! 😊 
                 </h1>

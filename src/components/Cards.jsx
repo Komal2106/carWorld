@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Cards({ item }) {
-  return (
+  return ( 
     <>
       <div className="cards-container mt-4 flex flex-wrap justify-center gap-3 md:gap-6 p-3 hover:scale-105 duration-300  hover:cursor-pointer">
         <div className="card bg-base-100 w-80 shadow-xl dark:bg-slate-700 dark:text-white">
